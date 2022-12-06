@@ -18,4 +18,6 @@ const callAnotherFunction = async ()=>{
 }
 
 callAnotherFunction()
+console.log(myUser.data);
+
 
